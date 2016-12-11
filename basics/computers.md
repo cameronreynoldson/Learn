@@ -145,7 +145,7 @@ to the customer.
 ```
 
 ### So what's next?
-Now that you understand how computers work (generally speaking), it's time you learn how to speak their language by learning binary! `01010111 01101111 01101111 00100001` (That's "Woo!" in binary)
+Now that you understand how computers work (generally speaking), it's time you understand how software works!
 
 ![](http://i.giphy.com/JIX9t2j0ZTN9S.gif)
 
