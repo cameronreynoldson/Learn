@@ -7,3 +7,5 @@ Read in this order:
 3. Programs
 4. Summary
 ```
+
+`note: when viewing in Github, some gifs may not appear due to file size constraints.`
