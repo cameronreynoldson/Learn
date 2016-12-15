@@ -24,7 +24,7 @@ Now move into that directory and run **git status**.
 
 This will show you the files that have been modified.
 
-Let's add a new file and **add** it.
+Let's make a new file and **add** it.
 
 <img src="images/git_add.png" width="65%">
 
