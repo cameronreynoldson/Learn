@@ -7,7 +7,7 @@ import unittest
 from linked_list import LinkedList
 
 
-class MyTest(unittest.TestCase):
+class LinkedListTest(unittest.TestCase):
     def test_to_string(self):
         ll = LinkedList()
 
